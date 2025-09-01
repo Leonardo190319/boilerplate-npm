@@ -19,6 +19,7 @@
     "backend",
     "package"
     ],
-	"author": "Leonardo Lindo"
+	"author": "Leonardo Lindo",
+	"license": "MIT"
 	
 }
