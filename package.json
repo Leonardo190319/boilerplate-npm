@@ -3,6 +3,7 @@
 	"version": "1.2.0",
 	"description": "Un proyecto de Node.js para aprender a usar package.json en freeCodeCamp",
 	"dependencies": {
+		"@freecodecamp/example": "^1.1.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -14,13 +15,12 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"keywords": [
-    "node",
-    "npm",
-    "freecodecamp",
-    "backend",
-    "package"
-    ],
+		"node",
+		"npm",
+		"freecodecamp",
+		"backend",
+		"package"
+	],
 	"author": "Leonardo Lindo",
 	"license": "MIT"
-	
 }
