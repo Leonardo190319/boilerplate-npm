@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"description": "Un proyecto de Node.js para aprender a usar package.json en freeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
